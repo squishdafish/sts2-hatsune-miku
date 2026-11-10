@@ -1,0 +1,1 @@
+Card's primary effect is damage

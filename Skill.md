@@ -1,0 +1,1 @@
+Card has effect other than damage.

@@ -1,0 +1,1 @@
+Card is not placed into the discard pile when played. Provides a lasting effect.
