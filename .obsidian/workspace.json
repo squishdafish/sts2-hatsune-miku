@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecaf249d53e123cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skill.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Skill"
-            }
-          },
-          {
             "id": "0957f6bfae0cb3bd",
             "type": "leaf",
             "state": {
@@ -36,467 +22,76 @@
             }
           },
           {
-            "id": "fac2afd05e5774fe",
+            "id": "b86f2a27ff1f027d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dissappearance.md",
+                "file": "Lemon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dissappearance"
+              "title": "Lemon"
             }
           },
           {
-            "id": "643c6821714cedd5",
+            "id": "7476a64726133c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hachune.md",
+                "file": "Puppet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hachune"
+              "title": "Puppet"
             }
           },
           {
-            "id": "ac87c26c4a360a45",
+            "id": "3c2998ef860098f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Powerful Voice.md",
+                "file": "DECOrated.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Powerful Voice"
+              "title": "DECOrated"
             }
           },
           {
-            "id": "39f32d2c46dca7ee",
+            "id": "5faa687c26fc88d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power"
-            }
-          },
-          {
-            "id": "19996e54ac8c309b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 cost.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3 cost"
-            }
-          },
-          {
-            "id": "25bf9e8d061a725e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hunger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hunger"
-            }
-          },
-          {
-            "id": "06e6f9b74ab892c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Static Shock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Static Shock"
-            }
-          },
-          {
-            "id": "a9c268dff7947256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Heart Goes Out to You!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My Heart Goes Out to You!"
-            }
-          },
-          {
-            "id": "ddc581914ba0252f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rare.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rare"
-            }
-          },
-          {
-            "id": "435fc8d01264b014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feedback"
-            }
-          },
-          {
-            "id": "9b6232ace371d41e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intense Voice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intense Voice"
-            }
-          },
-          {
-            "id": "8e4986994763ec1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feedback"
-            }
-          },
-          {
-            "id": "1464a9891f37ee27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cacophony.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cacophony"
-            }
-          },
-          {
-            "id": "0f58aec903e0499d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shuffle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shuffle"
-            }
-          },
-          {
-            "id": "2c25be970fd2376e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leeks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leeks"
-            }
-          },
-          {
-            "id": "2419b64cc088aefe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concert"
-            }
-          },
-          {
-            "id": "c27fce49614e9308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Love Song.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Love Song"
-            }
-          },
-          {
-            "id": "a8a19bff6076b55d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Speaker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Speaker"
-            }
-          },
-          {
-            "id": "ab3e92a02d0e5ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cards"
-            }
-          },
-          {
-            "id": "8d31ea2965fd8c22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miku Miku....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miku Miku..."
-            }
-          },
-          {
-            "id": "36175a1af742a0f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miku Miku....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miku Miku..."
-            }
-          },
-          {
-            "id": "8748cdc1c385193c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gift.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gift"
-            }
-          },
-          {
-            "id": "ab02a69846a6be3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Idol Power.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Idol Power"
-            }
-          },
-          {
-            "id": "4f0da8e67924ee60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leek Whetstone.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leek Whetstone"
-            }
-          },
-          {
-            "id": "8a91d1f714e91f1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Viewers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Viewers"
-            }
-          },
-          {
-            "id": "03a81eab61e5e6a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Common.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Common"
-            }
-          },
-          {
-            "id": "0e325746a55f4ea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miku Miku....md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miku Miku..."
-            }
-          },
-          {
-            "id": "c5a170d98be7fdfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wink"
-            }
-          },
-          {
-            "id": "20d61700fc27d2dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multiplayer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiplayer"
-            }
-          },
-          {
-            "id": "c1451c39572e76bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01"
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 31
+        "currentTab": 4
       },
       {
         "id": "7f0c36f3bf3a2ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4505470270c377",
+            "id": "53a137b104f49ed2",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Note.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5752393218946239,
-                  "close": true
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Local graph"
+              "title": "Graph view"
             }
           },
           {
@@ -505,9 +100,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -536,8 +130,7 @@
               "title": "Local graph"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -599,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0eb6bc61471c17a5",
@@ -705,34 +299,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1451c39572e76bb",
+  "active": "5faa687c26fc88d6",
   "lastOpenFiles": [
-    "01.md",
+    "Lemon.md",
+    "Powerful Voice.md",
+    "Hachune.md",
+    "Dissappearance.md",
+    "Note.md",
+    "Skill.md",
+    "Pop.md",
+    "Melt.md",
+    "Microphone.md",
     "Multiplayer.md",
-    "Very Amazing Green Onion.md",
-    "Empowering Melody.md",
-    "Untitled.md",
     "Wink.md",
-    "Wall of leeks.md",
-    "Vocal Synthesis.md",
-    "Virtual Idol.md",
+    "Miku Miku....md",
+    "Common.md",
     "Viewers.md",
-    "Very Amazing Scallion.md",
-    "Vegetable Juice.md",
-    "Up the tempo.md",
-    "Untitled.base",
-    "Uncommon.md",
-    "Twintails.md",
-    "Turn it up to 11.md",
-    "Strike.md",
-    "Store Power.md",
+    "Leek Whetstone.md",
+    "Idol Power.md",
+    "Gift.md",
+    "Cards.md",
+    "Leeks.md",
+    "Cacophony.md",
+    "Feedback.md",
+    "Intense Voice.md",
+    "Rare.md",
+    "My Heart Goes Out to You!.md",
     "Static Shock.md",
-    "starter.md",
-    "Stagehands.md",
-    "Spring Onion.md",
-    "Speaker.md",
-    "Song and dance.md",
-    "Soft Rock.md",
-    "Social Media.md"
+    "Hunger.md",
+    "sts2 miku",
+    "Untitled.base"
   ]
 }

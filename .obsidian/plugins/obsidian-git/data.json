@@ -26,7 +26,7 @@
   "treeStructure": false,
   "gitServerPasswordSecret": "",
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "sts2 miku",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "limitToVault": false,
